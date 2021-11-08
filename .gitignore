@@ -1,0 +1,11 @@
+file/**
+
+# SSH Keys
+*.pem
+
+
+*.DS_Store
+*.vagrant
+
+# Generated private key
+*.key
